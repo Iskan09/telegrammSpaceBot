@@ -1,0 +1,6 @@
+photo1 = "https://thumb.cloud.mail.ru/weblink/thumb/xw1/pWMK/yYpfiA7zv/b0ccfdc71ad7b1e5260a567a30b9ecab_XL.jpg"
+photo2 = "https://thumb.cloud.mail.ru/weblink/thumb/xw1/5A2y/nvqmVyRsU"
+photo3 = "https://thumb.cloud.mail.ru/weblink/thumb/xw1/8WSz/W5TfeMc1U"
+photo4 = "https://thumb.cloud.mail.ru/weblink/thumb/xw1/sVpS/7yJRiKoZp"
+photo5 = "https://thumb.cloud.mail.ru/weblink/thumb/xw1/Piwx/UnNuzRMfQ"
+photo6 = "https://thumb.cloud.mail.ru/weblink/thumb/xw1/8WSz/W5TfeMc1U"
